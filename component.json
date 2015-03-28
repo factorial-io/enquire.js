@@ -2,7 +2,7 @@
   "name": "enquire",
   "repo": "factorial-io/enquire.js",
   "description" : "Awesome Media Queries in JavaScript",
-  "version": "master",
+  "version": "2.1.2",
   "main": "dist/enquire.js",
   "scripts": ["dist/enquire.js"]
 }
