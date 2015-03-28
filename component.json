@@ -1,4 +1,5 @@
 {
+  "repo": "factorial-io/enquire.js",
   "name": "enquire",
   "description" : "Awesome Media Queries in JavaScript",
   "version": "2.1.2",
